@@ -16,7 +16,6 @@ import javafx.stage.Stage;
 /**
  *
  * @author $Shivang Shingala, you miss 100% of the shots you don't take
- * Student ID: 991600162
  * Submission date: 11-08-2021
  * Assignment 6: Event Handling and JavaFX
  */
